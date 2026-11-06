@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /verify-email
+Disallow: /orders
+Disallow: /vehicles
+Disallow: /users
+Disallow: /reglements
+Disallow: /notifications
+
+Sitemap: https://aguinanecars.com/sitemap.xml
